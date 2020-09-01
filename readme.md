@@ -11,4 +11,4 @@ A simple pip install deal with all of that
  Just use python to interpret it
 > python voice.py
 
- After that you'll have to chose the output formar either text ou voice and start speacking
+ After that you'll have to chose the output formar either text ou voice and start speaking
